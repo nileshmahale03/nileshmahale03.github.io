@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://nileshmahale03.github.io
+title: Nilesh Mahale
+email: nileshmahale03@gmail.com
+author: Nilesh Mahale
+description: My personal portfolio and blog
+paginate: 5
+google_analytics: 
