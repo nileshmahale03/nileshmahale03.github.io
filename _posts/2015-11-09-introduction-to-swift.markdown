@@ -13,3 +13,5 @@ print("Hello World!")
 {% endhighlight %}
 
 You don't need to import a separate library for functionality. You also don't need a main() function. You also don't need to write semicolons at the end of every statement.
+
+Swift was introduced at Apples's 2014 WWDC. An upgraded version 1.2 was also introduced during 2014. At WWDC 2015, a major upgraded version Swift 2 was introduced. 
