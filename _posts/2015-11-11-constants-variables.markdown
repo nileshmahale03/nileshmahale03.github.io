@@ -3,4 +3,4 @@ published: true
 title: Constants & Variables 
 layout: post
 ---
-Coming soon:
+let, var, naming data types, type inference
