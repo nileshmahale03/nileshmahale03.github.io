@@ -3,4 +3,19 @@ published: true
 title: Swift Operators
 layout: post
 ---
-Coming Soon:
+Assignment =
+Add +
+Subtract - 
+Multiply *
+Divide /
+Modulo %
+Shift left <<
+Shift right >>
+increment ++
+decrement --
++=, -=, *=, /=
+Equality ==
+Comparison <, >, <=, >=
+logic &&, ||
+
+
