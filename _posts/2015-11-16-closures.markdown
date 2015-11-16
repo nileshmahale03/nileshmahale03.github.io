@@ -1,0 +1,13 @@
+---
+published: true
+title: Closures
+layout: post
+---
+Closure Basics
+
+shorthand syntax
+
+closures with no return value
+
+capturing from the enclosing scope
+
