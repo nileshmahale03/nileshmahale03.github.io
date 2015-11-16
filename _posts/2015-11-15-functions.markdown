@@ -3,4 +3,15 @@ published: true
 title: Functions
 layout: post
 ---
-Coming Soon:
+Basic function
+
+Function parameters
+
+Return values
+
+Advanced parameter handling
+
+Standard library functions
+
+functions as variables
+
